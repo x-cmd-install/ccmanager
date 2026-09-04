@@ -7,7 +7,7 @@ about:
   head: 082fe2e
   archived: false
   latestVersion: v4.3.2
-  collectedAt: 2026-09-04T19:19:32Z
+  collectedAt: 2026-09-04T21:13:44Z
 timeline:
   created: 2025-06-07
   lastCommit: 2026-09-02
@@ -83,5 +83,43 @@ total:
   openIssue: 5
   commit: 756
 ---
+path: /home/runner/.x-repo/github.com/kbwo/ccmanager
+collectedAt: 2026-09-04T21:13:44Z
+loc:
+  TypeScript:
+    code: 20114
+    comments: 3229
+    blanks: 3410
+    files: 105
+  Tsx:
+    code: 11633
+    comments: 592
+    blanks: 1642
+    files: 44
+  Json:
+    code: 223
+    comments: 0
+    blanks: 0
+    files: 9
+  JavaScript:
+    code: 140
+    comments: 3
+    blanks: 14
+    files: 2
+  Sh:
+    code: 59
+    comments: 14
+    blanks: 14
+    files: 1
+  Markdown:
+    code: 0
+    comments: 1123
+    blanks: 488
+    files: 14
+total:
+  code: 32453
+  comments: 5005
+  blanks: 5591
+  files: 175
 ---
 
