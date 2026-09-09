@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/kbwo/ccmanager/releases/383139511",
-  "assets_url": "https://api.github.com/repos/kbwo/ccmanager/releases/383139511/assets",
-  "upload_url": "https://uploads.github.com/repos/kbwo/ccmanager/releases/383139511/assets{?name,label}",
-  "html_url": "https://github.com/kbwo/ccmanager/releases/tag/v4.4.0",
-  "id": 383139511,
+  "url": "https://api.github.com/repos/kbwo/ccmanager/releases/385141290",
+  "assets_url": "https://api.github.com/repos/kbwo/ccmanager/releases/385141290/assets",
+  "upload_url": "https://uploads.github.com/repos/kbwo/ccmanager/releases/385141290/assets{?name,label}",
+  "html_url": "https://github.com/kbwo/ccmanager/releases/tag/v4.4.2",
+  "id": 385141290,
   "author": {
     "login": "kbwo",
     "id": 54230093,
@@ -25,21 +25,20 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOO3rA7c4W1j63",
-  "tag_name": "v4.4.0",
+  "node_id": "RE_kwDOO3rA7c4W9Moq",
+  "tag_name": "v4.4.2",
   "target_commitish": "main",
-  "name": "v4.4.0",
+  "name": "v4.4.2",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-09-05T04:59:50Z",
-  "updated_at": "2026-09-05T05:00:40Z",
-  "published_at": "2026-09-05T05:00:40Z",
+  "created_at": "2026-09-09T00:15:34Z",
+  "updated_at": "2026-09-09T00:17:34Z",
+  "published_at": "2026-09-09T00:17:34Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/kbwo/ccmanager/tarball/v4.4.0",
-  "zipball_url": "https://api.github.com/repos/kbwo/ccmanager/zipball/v4.4.0",
-  "body": "## What's Changed\r\n* fix: align session status tags in their own column by @kbwo in https://github.com/kbwo/ccmanager/pull/332\r\n* feat: restore previous sessions on startup by @kbwo in https://github.com/kbwo/ccmanager/pull/333\r\n* feat: add ccmanager-config skill installable via claude/codex by @kbwo in https://github.com/kbwo/ccmanager/pull/329\r\n\r\n\r\n**Full Changelog**: https://github.com/kbwo/ccmanager/compare/v4.3.2...v4.4.0",
-  "mentions_count": 1
+  "tarball_url": "https://api.github.com/repos/kbwo/ccmanager/tarball/v4.4.2",
+  "zipball_url": "https://api.github.com/repos/kbwo/ccmanager/zipball/v4.4.2",
+  "body": "**Full Changelog**: https://github.com/kbwo/ccmanager/compare/v4.4.1...v4.4.2"
 }
