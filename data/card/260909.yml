@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.4.2"
   latestRelease: "v4.4.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:25:39Z
+  collectedAt: 2026-09-09T20:51:42Z
 timeline:
   created: 2025-06-07
   lastCommit: 2026-09-09
@@ -86,7 +86,7 @@ total:
   commit: 765
 ---
 path: /home/runner/.x-repo/github.com/kbwo/ccmanager
-collectedAt: 2026-09-09T06:25:40Z
+collectedAt: 2026-09-09T20:51:44Z
 loc:
   TypeScript:
     code: 20919
