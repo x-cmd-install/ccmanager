@@ -126,4 +126,3 @@ total:
 ---
 
 ---
-{"id":385141290,"author":{"login":"kbwo","id":54230093,"node_id":"MDQ6VXNlcjU0MjMwMDkz","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOO3rA7c4W9Moq","tag_name":"v4.4.2","target_commitish":"main","name":"v4.4.2","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-09-09T00:15:34Z","updated_at":"2026-09-09T00:17:34Z","published_at":"2026-09-09T00:17:34Z","assets":[],"body":"**Full Changelog**: https://github.com/kbwo/ccmanager/compare/v4.4.1...v4.4.2"}
