@@ -14,11 +14,11 @@ x install ccmanager
 
 ## Code insight
 
-Total: **34,004** lines of code across **172** files in the top 5 languages.
+Total: **34,389** lines of code across **174** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| TypeScript | 20,919 | 3,410 | 3,581 | 113 |
+| TypeScript | 21,304 | 3,564 | 3,642 | 115 |
 | Tsx | 12,137 | 638 | 1,720 | 45 |
 | JavaScript | 456 | 33 | 59 | 3 |
 | Json | 433 | 0 | 0 | 10 |
@@ -31,27 +31,27 @@ Total: **34,004** lines of code across **172** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v4.4.2` (2026-09-09)
-- **Last commit**: 2026-09-09
+- **Latest**: `v4.4.3` (2026-09-13)
+- **Last commit**: 2026-09-13
 
 ## Popularity
 
-- **Stars**: 1,240 · **Forks**: 92 · **Open issues**: 58 · **Contributors**: 20
+- **Stars**: 1,239 · **Forks**: 92 · **Open issues**: 58 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 161 · **Merged PRs**: 209 · **Open PRs**: 6 · **Closed issues**: 53 · **Open issues**: 5 · **Commits**: 765
+- **Releases**: 162 · **Merged PRs**: 211 · **Open PRs**: 5 · **Closed issues**: 54 · **Open issues**: 4 · **Commits**: 768
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 6 | 10 | 1 | 1 | 1 | 18 |
-| last60d | 2026-07-15 | 8 | 12 | 1 | 1 | 1 | 25 |
-| 90d | 2026-06-15 | 16 | 21 | 1 | 2 | 1 | 42 |
-| last180d | 2026-03-17 | 45 | 63 | 5 | 6 | 2 | 116 |
-| 360d | 2025-09-18 | 100 | 167 | 6 | 30 | 4 | 376 |
-| last720d | 2024-09-23 | 100 | 209 | 6 | 53 | 5 | 765 |
+| 30d | 2026-08-15 | 7 | 12 | 0 | 2 | 0 | 16 |
+| last60d | 2026-07-16 | 9 | 14 | 0 | 2 | 0 | 25 |
+| 90d | 2026-06-16 | 17 | 23 | 0 | 3 | 0 | 41 |
+| last180d | 2026-03-18 | 45 | 61 | 4 | 6 | 1 | 93 |
+| 360d | 2025-09-19 | 100 | 169 | 5 | 31 | 3 | 365 |
+| last720d | 2024-09-24 | 100 | 211 | 5 | 54 | 4 | 768 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for ccmanager lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:21:14Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:47:02Z._
