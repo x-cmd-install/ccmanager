@@ -4,7 +4,7 @@
 
 Coding Agent Session Manager for Claude Code / Gemini CLI / Codex CLI / Cursor Agent / Copilot CLI / Cline CLI / OpenCode / Kimi CLI
 
-![ccmanager](https://repo.x-cmd.io/ccmanager.svg)
+[![x-cmd/install — ccmanager Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ccmanager.svg)](https://x-cmd.com/install/ccmanager)
 
 ## Install
 
@@ -36,7 +36,7 @@ Total: **34,389** lines of code across **174** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,245 · **Forks**: 92 · **Open issues**: 58 · **Contributors**: 20
+- **Stars**: 1,246 · **Forks**: 92 · **Open issues**: 58 · **Contributors**: 20
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **34,389** lines of code across **174** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 6 | 9 | 0 | 2 | 0 | 16 |
-| last60d | 2026-07-20 | 9 | 14 | 0 | 2 | 0 | 25 |
-| 90d | 2026-06-20 | 16 | 23 | 0 | 3 | 0 | 41 |
-| last180d | 2026-03-22 | 39 | 52 | 4 | 6 | 1 | 93 |
-| 360d | 2025-09-23 | 100 | 162 | 5 | 31 | 3 | 365 |
-| last720d | 2024-09-28 | 100 | 211 | 5 | 54 | 4 | 768 |
+| 30d | 2026-08-21 | 5 | 9 | 0 | 0 | 0 | 16 |
+| last60d | 2026-07-22 | 9 | 14 | 0 | 2 | 0 | 25 |
+| 90d | 2026-06-22 | 15 | 22 | 0 | 3 | 0 | 37 |
+| last180d | 2026-03-24 | 38 | 51 | 4 | 6 | 1 | 90 |
+| 360d | 2025-09-25 | 100 | 161 | 5 | 31 | 3 | 363 |
+| last720d | 2024-09-30 | 100 | 211 | 5 | 54 | 4 | 768 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for ccmanager lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:24:48Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:20:35Z._
