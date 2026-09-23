@@ -4,7 +4,7 @@
 
 Coding Agent Session Manager for Claude Code / Gemini CLI / Codex CLI / Cursor Agent / Copilot CLI / Cline CLI / OpenCode / Kimi CLI
 
-[![x-cmd/install — ccmanager Code Quality Monitoring Repo Card](https://repo.x-cmd.io/ccmanager.svg)](https://x-cmd.com/install/ccmanager)
+[![x-cmd/install — ccmanager Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/ccmanager.svg)](https://x-cmd.com/install/ccmanager)
 
 ## Install
 
@@ -36,7 +36,7 @@ Total: **34,389** lines of code across **174** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,248 · **Forks**: 92 · **Open issues**: 58 · **Contributors**: 20
+- **Stars**: 1,249 · **Forks**: 93 · **Open issues**: 58 · **Contributors**: 20
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **34,389** lines of code across **174** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 5 | 7 | 0 | 0 | 0 | 16 |
-| last60d | 2026-07-24 | 9 | 14 | 0 | 2 | 0 | 25 |
-| 90d | 2026-06-24 | 15 | 22 | 0 | 3 | 0 | 37 |
-| last180d | 2026-03-26 | 38 | 51 | 4 | 6 | 1 | 90 |
-| 360d | 2025-09-27 | 100 | 160 | 5 | 30 | 3 | 363 |
-| last720d | 2024-10-02 | 100 | 211 | 5 | 54 | 4 | 768 |
+| 30d | 2026-08-24 | 5 | 7 | 0 | 0 | 0 | 16 |
+| last60d | 2026-07-25 | 9 | 14 | 0 | 2 | 0 | 25 |
+| 90d | 2026-06-25 | 15 | 22 | 0 | 2 | 0 | 37 |
+| last180d | 2026-03-27 | 38 | 50 | 4 | 6 | 1 | 90 |
+| 360d | 2025-09-28 | 100 | 160 | 5 | 30 | 3 | 363 |
+| last720d | 2024-10-03 | 100 | 211 | 5 | 54 | 4 | 768 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for ccmanager lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:43:05Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:49:29Z._
