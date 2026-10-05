@@ -126,4 +126,3 @@ total:
 ---
 
 ---
-{"id":397545790,"author":{"login":"kbwo","id":54230093,"node_id":"MDQ6VXNlcjU0MjMwMDkz","gravatar_id":"","type":"User","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOO3rA7c4XshE-","tag_name":"v4.4.4","target_commitish":"main","name":"v4.4.4","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-09-27T07:09:25Z","updated_at":"2026-09-27T07:09:50Z","published_at":"2026-09-27T07:09:50Z","assets":[],"body":"## What's Changed\r\n* feat: let worktree creation continue in the background by @kbwo in https://github.com/kbwo/ccmanager/pull/337\r\n\r\n\r\n**Full Changelog**: https://github.com/kbwo/ccmanager/compare/v4.4.3...v4.4.4","mentions_count":1}
