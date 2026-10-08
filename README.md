@@ -36,22 +36,22 @@ Total: **34,974** lines of code across **179** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,259 · **Forks**: 93 · **Open issues**: 58 · **Contributors**: 20
+- **Stars**: 1,260 · **Forks**: 93 · **Open issues**: 58 · **Contributors**: 20
 
 ## Totals (cumulative)
 
-- **Releases**: 163 · **Merged PRs**: 212 · **Open PRs**: 5 · **Closed issues**: 54 · **Open issues**: 4 · **Commits**: 770
+- **Releases**: 163 · **Merged PRs**: 212 · **Open PRs**: 6 · **Closed issues**: 54 · **Open issues**: 4 · **Commits**: 770
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 4 | 4 | 0 | 0 | 0 | 5 |
-| last60d | 2026-08-08 | 10 | 15 | 0 | 2 | 0 | 23 |
-| 90d | 2026-07-09 | 11 | 16 | 0 | 2 | 0 | 30 |
-| last180d | 2026-04-10 | 35 | 43 | 4 | 5 | 1 | 72 |
-| 360d | 2025-10-12 | 100 | 158 | 5 | 29 | 3 | 301 |
-| last720d | 2024-10-17 | 100 | 212 | 5 | 54 | 4 | 770 |
+| 30d | 2026-09-08 | 4 | 2 | 1 | 0 | 0 | 5 |
+| last60d | 2026-08-09 | 10 | 14 | 1 | 2 | 0 | 23 |
+| 90d | 2026-07-10 | 11 | 15 | 1 | 2 | 0 | 30 |
+| last180d | 2026-04-11 | 35 | 43 | 5 | 4 | 1 | 72 |
+| 360d | 2025-10-13 | 100 | 158 | 6 | 29 | 3 | 301 |
+| last720d | 2024-10-18 | 100 | 212 | 6 | 54 | 4 | 770 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for ccmanager lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T07:13:00Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:22:20Z._
