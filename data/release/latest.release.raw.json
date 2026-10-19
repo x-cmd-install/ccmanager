@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/kbwo/ccmanager/releases/415683405",
-  "assets_url": "https://api.github.com/repos/kbwo/ccmanager/releases/415683405/assets",
-  "upload_url": "https://uploads.github.com/repos/kbwo/ccmanager/releases/415683405/assets{?name,label}",
-  "html_url": "https://github.com/kbwo/ccmanager/releases/tag/v4.4.8",
-  "id": 415683405,
+  "url": "https://api.github.com/repos/kbwo/ccmanager/releases/416314265",
+  "assets_url": "https://api.github.com/repos/kbwo/ccmanager/releases/416314265/assets",
+  "upload_url": "https://uploads.github.com/repos/kbwo/ccmanager/releases/416314265/assets{?name,label}",
+  "html_url": "https://github.com/kbwo/ccmanager/releases/tag/v4.4.9",
+  "id": 416314265,
   "author": {
     "login": "kbwo",
     "id": 54230093,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOO3rA7c4YxtNN",
-  "tag_name": "v4.4.8",
+  "node_id": "RE_kwDOO3rA7c4Y0HOZ",
+  "tag_name": "v4.4.9",
   "target_commitish": "main",
-  "name": "v4.4.8",
+  "name": "v4.4.9",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-10-17T08:44:16Z",
-  "updated_at": "2026-10-17T08:44:45Z",
-  "published_at": "2026-10-17T08:44:45Z",
+  "created_at": "2026-10-18T07:56:58Z",
+  "updated_at": "2026-10-18T07:57:42Z",
+  "published_at": "2026-10-18T07:57:42Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/kbwo/ccmanager/tarball/v4.4.8",
-  "zipball_url": "https://api.github.com/repos/kbwo/ccmanager/zipball/v4.4.8",
-  "body": "## What's Changed\r\n* feat: show number shortcuts in new worktree preset selection by @kbwo in https://github.com/kbwo/ccmanager/pull/344\r\n* feat: add Reload Config from Disk to the configuration screen by @kbwo in https://github.com/kbwo/ccmanager/pull/343\r\n* fix: reject invalid generated branch names instead of crashing by @kbwo in https://github.com/kbwo/ccmanager/pull/345\r\n\r\n\r\n**Full Changelog**: https://github.com/kbwo/ccmanager/compare/v4.4.7...v4.4.8",
+  "tarball_url": "https://api.github.com/repos/kbwo/ccmanager/tarball/v4.4.9",
+  "zipball_url": "https://api.github.com/repos/kbwo/ccmanager/zipball/v4.4.9",
+  "body": "## What's Changed\r\n* feat: detect opencode question prompts as waiting_input by @kbwo in https://github.com/kbwo/ccmanager/pull/346\r\n* feat: detect Cursor plan \"Ready to build?\" prompt as waiting_input by @kbwo in https://github.com/kbwo/ccmanager/pull/347\r\n\r\n\r\n**Full Changelog**: https://github.com/kbwo/ccmanager/compare/v4.4.8...v4.4.9",
   "mentions_count": 1
 }
