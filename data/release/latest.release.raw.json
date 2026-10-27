@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/kbwo/ccmanager/releases/416314265",
-  "assets_url": "https://api.github.com/repos/kbwo/ccmanager/releases/416314265/assets",
-  "upload_url": "https://uploads.github.com/repos/kbwo/ccmanager/releases/416314265/assets{?name,label}",
-  "html_url": "https://github.com/kbwo/ccmanager/releases/tag/v4.4.9",
-  "id": 416314265,
+  "url": "https://api.github.com/repos/kbwo/ccmanager/releases/424897993",
+  "assets_url": "https://api.github.com/repos/kbwo/ccmanager/releases/424897993/assets",
+  "upload_url": "https://uploads.github.com/repos/kbwo/ccmanager/releases/424897993/assets{?name,label}",
+  "html_url": "https://github.com/kbwo/ccmanager/releases/tag/v4.4.10",
+  "id": 424897993,
   "author": {
     "login": "kbwo",
     "id": 54230093,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOO3rA7c4Y0HOZ",
-  "tag_name": "v4.4.9",
+  "node_id": "RE_kwDOO3rA7c4ZU23J",
+  "tag_name": "v4.4.10",
   "target_commitish": "main",
-  "name": "v4.4.9",
+  "name": "v4.4.10",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-10-18T07:56:58Z",
-  "updated_at": "2026-10-18T07:57:42Z",
-  "published_at": "2026-10-18T07:57:42Z",
+  "created_at": "2026-10-27T00:04:02Z",
+  "updated_at": "2026-10-27T00:04:28Z",
+  "published_at": "2026-10-27T00:04:28Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/kbwo/ccmanager/tarball/v4.4.9",
-  "zipball_url": "https://api.github.com/repos/kbwo/ccmanager/zipball/v4.4.9",
-  "body": "## What's Changed\r\n* feat: detect opencode question prompts as waiting_input by @kbwo in https://github.com/kbwo/ccmanager/pull/346\r\n* feat: detect Cursor plan \"Ready to build?\" prompt as waiting_input by @kbwo in https://github.com/kbwo/ccmanager/pull/347\r\n\r\n\r\n**Full Changelog**: https://github.com/kbwo/ccmanager/compare/v4.4.8...v4.4.9",
+  "tarball_url": "https://api.github.com/repos/kbwo/ccmanager/tarball/v4.4.10",
+  "zipball_url": "https://api.github.com/repos/kbwo/ccmanager/zipball/v4.4.10",
+  "body": "## What's Changed\r\n* perf: reduce menu lag with many worktrees by @kbwo in https://github.com/kbwo/ccmanager/pull/349\r\n* chore: always use the latest Bun in CI and mise by @kbwo in https://github.com/kbwo/ccmanager/pull/348\r\n\r\n\r\n**Full Changelog**: https://github.com/kbwo/ccmanager/compare/v4.4.9...v4.4.10",
   "mentions_count": 1
 }
