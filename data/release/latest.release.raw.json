@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/kbwo/ccmanager/releases/424897993",
-  "assets_url": "https://api.github.com/repos/kbwo/ccmanager/releases/424897993/assets",
-  "upload_url": "https://uploads.github.com/repos/kbwo/ccmanager/releases/424897993/assets{?name,label}",
-  "html_url": "https://github.com/kbwo/ccmanager/releases/tag/v4.4.10",
-  "id": 424897993,
+  "url": "https://api.github.com/repos/kbwo/ccmanager/releases/426105047",
+  "assets_url": "https://api.github.com/repos/kbwo/ccmanager/releases/426105047/assets",
+  "upload_url": "https://uploads.github.com/repos/kbwo/ccmanager/releases/426105047/assets{?name,label}",
+  "html_url": "https://github.com/kbwo/ccmanager/releases/tag/v4.4.11",
+  "id": 426105047,
   "author": {
     "login": "kbwo",
     "id": 54230093,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOO3rA7c4ZU23J",
-  "tag_name": "v4.4.10",
+  "node_id": "RE_kwDOO3rA7c4ZZdjX",
+  "tag_name": "v4.4.11",
   "target_commitish": "main",
-  "name": "v4.4.10",
+  "name": "v4.4.11",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-10-27T00:04:02Z",
-  "updated_at": "2026-10-27T00:04:28Z",
-  "published_at": "2026-10-27T00:04:28Z",
+  "created_at": "2026-10-27T23:37:40Z",
+  "updated_at": "2026-10-27T23:38:04Z",
+  "published_at": "2026-10-27T23:38:04Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/kbwo/ccmanager/tarball/v4.4.10",
-  "zipball_url": "https://api.github.com/repos/kbwo/ccmanager/zipball/v4.4.10",
-  "body": "## What's Changed\r\n* perf: reduce menu lag with many worktrees by @kbwo in https://github.com/kbwo/ccmanager/pull/349\r\n* chore: always use the latest Bun in CI and mise by @kbwo in https://github.com/kbwo/ccmanager/pull/348\r\n\r\n\r\n**Full Changelog**: https://github.com/kbwo/ccmanager/compare/v4.4.9...v4.4.10",
+  "tarball_url": "https://api.github.com/repos/kbwo/ccmanager/tarball/v4.4.11",
+  "zipball_url": "https://api.github.com/repos/kbwo/ccmanager/zipball/v4.4.11",
+  "body": "## What's Changed\r\n* perf: load the worktree list without blocking the event loop by @kbwo in https://github.com/kbwo/ccmanager/pull/350\r\n\r\n\r\n**Full Changelog**: https://github.com/kbwo/ccmanager/compare/v4.4.10...v4.4.11",
   "mentions_count": 1
 }
