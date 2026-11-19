@@ -46,12 +46,12 @@ Total: **35,656** lines of code across **186** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 3 | 3 | 0 | 0 | 0 | 5 |
-| last60d | 2026-09-18 | 8 | 13 | 1 | 0 | 0 | 20 |
-| 90d | 2026-08-19 | 14 | 22 | 1 | 2 | 0 | 36 |
-| last180d | 2026-05-21 | 26 | 38 | 1 | 3 | 0 | 67 |
-| 360d | 2025-11-22 | 100 | 160 | 1 | 24 | 2 | 277 |
-| last720d | 2024-11-27 | 100 | 224 | 1 | 54 | 4 | 788 |
+| 30d | 2026-10-20 | 2 | 3 | 0 | 0 | 0 | 5 |
+| last60d | 2026-09-20 | 8 | 13 | 1 | 0 | 0 | 20 |
+| 90d | 2026-08-21 | 13 | 22 | 1 | 0 | 0 | 36 |
+| last180d | 2026-05-23 | 26 | 38 | 1 | 3 | 0 | 67 |
+| 360d | 2025-11-24 | 100 | 157 | 1 | 24 | 2 | 277 |
+| last720d | 2024-11-29 | 100 | 224 | 1 | 54 | 4 | 788 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for ccmanager lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:19:09Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:12:48Z._
