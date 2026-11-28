@@ -7,7 +7,7 @@ about:
   latestVersion: "v4.4.11"
   latestRelease: "v4.4.11"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:40:16Z
+  collectedAt: 2026-11-28T09:30:41Z
 timeline:
   created: 2025-06-07
   lastCommit: 2026-10-27
@@ -30,7 +30,7 @@ language:
 totalBytes: 1299131
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 0
     openPR: 1
@@ -38,7 +38,7 @@ recent:
     openIssue: 0
     commit: 0
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 7
     mergedPR: 12
     openPR: 2
@@ -46,7 +46,7 @@ recent:
     openIssue: 0
     commit: 18
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 13
     mergedPR: 19
     openPR: 2
@@ -54,7 +54,7 @@ recent:
     openIssue: 0
     commit: 33
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 26
     mergedPR: 37
     openPR: 2
@@ -62,7 +62,7 @@ recent:
     openIssue: 0
     commit: 67
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 100
     mergedPR: 156
     openPR: 2
@@ -70,7 +70,7 @@ recent:
     openIssue: 2
     commit: 266
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 100
     mergedPR: 224
     openPR: 2
@@ -86,7 +86,7 @@ total:
   commit: 788
 ---
 path: /home/runner/.x-repo/github.com/kbwo/ccmanager
-collectedAt: 2026-11-27T09:40:17Z
+collectedAt: 2026-11-28T09:30:42Z
 loc:
   TypeScript:
     code: 21905
